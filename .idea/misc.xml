@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/src/practice10" />
+    <file type="web" url="file://$PROJECT_DIR$/src/practice11" />
+    <file type="web" url="file://$PROJECT_DIR$/src/practice12" />
+    <file type="web" url="file://$PROJECT_DIR$/src/practice13" />
+    <file type="web" url="file://$PROJECT_DIR$/src/practice14" />
+    <file type="web" url="file://$PROJECT_DIR$/src/practice15" />
+    <file type="web" url="file://$PROJECT_DIR$/src/pw15/pw15" />
+    <type id="Spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/practice14/pom.xml" />
+        <option value="$PROJECT_DIR$/src/practice15/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/src/practice14/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

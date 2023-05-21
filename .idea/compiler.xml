@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringProject" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="15" target="18" />
+      <module name="demo" target="17" />
+      <module name="demo.main" target="17" />
+      <module name="demo.test" target="17" />
+      <module name="practice10" target="17" />
+      <module name="practice10.main" target="17" />
+      <module name="practice10.test" target="17" />
+      <module name="practice11" target="17" />
+      <module name="practice11.main" target="17" />
+      <module name="practice11.test" target="17" />
+      <module name="Practice12" target="17" />
+      <module name="Practice12.main" target="17" />
+      <module name="Practice12.test" target="17" />
+      <module name="Practice13" target="17" />
+      <module name="Practice13.main" target="17" />
+      <module name="Practice13.test" target="17" />
+      <module name="SpringProject (1)" target="18" />
+      <module name="SpringProject (2)" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
